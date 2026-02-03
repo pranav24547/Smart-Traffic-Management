@@ -16,6 +16,12 @@ This project is suitable for **IoT mini projects, smart city applications, acade
 
 ---
 
+## 📊 Block Diagram
+
+<img src="https://github.com/pranav24547/Smart-Traffic-Management/blob/main/ER DIAGRAM.png">
+
+---
+
 ## 🧠 System Overview
 
 The system uses **four ultrasonic sensors (HC-SR04)** placed at different lanes of an intersection. These sensors continuously measure the distance between vehicles and the signal pole. The Arduino processes this data and adjusts the signal timing accordingly.
@@ -42,6 +48,12 @@ Power Supply | 5V
 
 - Arduino IDE  
 - USB Driver   
+
+---
+
+## 🔌 Schematic Diagram
+
+<img src="https://github.com/pranav24547/Smart-Traffic-Management/blob/main/Schematic Diagram.png">
 
 ---
 
