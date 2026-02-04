@@ -78,6 +78,11 @@ Power Supply | 5V
 
 ---
 
-## 👨‍💻 Author
-Developed By Pranav Thanavel
+## 📜 License
 
+Developed by **Pranav Thanavel**  
+For academic and educational purposes.
+
+---
+
+⭐ If you find this project helpful, consider giving it a star on GitHub!
